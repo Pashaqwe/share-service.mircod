@@ -1,0 +1,1 @@
+export const SIGN_UP_USER_INFO = 'SIGN_UP_USER_INFO';
